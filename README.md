@@ -7,36 +7,36 @@ Model is evaluated on the basis of precision, recall and F1-score for aspect cla
 
 An example of the input/output of the task is defined below: <br>
 
-"55": { <br>
+"55": { 
 
-    "sentence": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale", <br>
+    "sentence": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale", 
 
-    "info": [ <br>
+    "info": [ 
 
-      { <br>
+      { 
 
-        "snippets": "['Video-Streaming Ambitions']", <br>
+        "snippets": "['Video-Streaming Ambitions']", 
 
-        "target": "Blinkbox", <br>
+        "target": "Blinkbox", 
 
-        "sentiment_score": "-0.195", <br>
+        "sentiment_score": "-0.195", 
 
-        "aspects": "['Corporate/Stategy']" <br>
+        "aspects": "['Corporate/Stategy']" 
 
-      }, <br>
+      }, 
 
-      { <br>
+      { 
 
-        "snippets": "['Tesco Abandons Video-Streaming Ambitions ']", <br>
+        "snippets": "['Tesco Abandons Video-Streaming Ambitions ']", 
 
-        "target": "Tesco", <br>
+        "target": "Tesco", 
 
-        "sentiment_score": "-0.335", <br>
+        "sentiment_score": "-0.335", 
 
-        "aspects": "['Corporate/Stategy']" <br>
+        "aspects": "['Corporate/Stategy']" 
 
-      } <br>
+      } 
 
-    ] <br>
+    ] 
 
-  } <br>
+  } 
