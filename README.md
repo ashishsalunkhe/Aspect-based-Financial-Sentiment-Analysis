@@ -40,3 +40,14 @@ An example of the input/output of the task is defined below: <br>
     ] 
 
   } 
+  
+  
+  If you happen to refer my work please cite our research paper: [Link](https://scholar.google.com/scholar?cluster=17063964007769067631&hl=en&as_sdt=2005)
+  
+  BibTeX Cite:
+  
+  @article{salunkhe2019aspect,
+  title={Aspect based sentiment analysis on financial data using transferred learning approach using pre-trained BERT and regressor model”},
+  author={Salunkhe, Ashish and Mhaske, Shubham},
+  year={2019}
+  }
